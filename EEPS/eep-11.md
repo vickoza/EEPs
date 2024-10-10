@@ -1,5 +1,5 @@
 ---
-EEP: 10
+EEP: 11
 title: Update EOSIO build enviroment
 author: Vishal Oza (@vickoza)
 status: Draft
